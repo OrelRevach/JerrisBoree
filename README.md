@@ -19,7 +19,7 @@
 * First Data Structures(Jerries) :
 
 
-![alt text](https://github.com/OrelRevach/JerrisBoree/blob/main/imges/JerriesHashBuild.png)
+![alt text](https://github.com/OrelRevach/JerrisBoree/blob/master/imges/JerriesHashBuild.png)
 
 
 
@@ -28,7 +28,7 @@
 * Secound Data Structures(Traits) : 
 
 
-![alt text](https://github.com/OrelRevach/JerrisBoree/blob/main/imges/TraitsHashBuild.png)
+![alt text](https://github.com/OrelRevach/JerrisBoree/blob/master/imges/TraitsHashBuild.png)
 
 
 
